@@ -17,4 +17,10 @@ This is a code block for commands to show in Markdown
 Nice.
 ```
 
+So heres where ill put a checklist for things to be done
+
+- [x] Something that needs to be done part 1
+- [x] Something that needs to be done part 2,3
+- [ ] Something that needs to be done part 4
+
 ###### The end.
