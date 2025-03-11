@@ -10,4 +10,11 @@ Of
 Textttt
 
 ![Placeholder Imagee](https://thevanillaroom.co.uk/wp-content/uploads/2023/12/900px-Image-Placeholder.jpg)
+
+```
+This is a code block for commands to show in Markdown
+
+Nice.
+```
+
 ###### The end.
